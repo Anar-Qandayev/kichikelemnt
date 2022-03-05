@@ -1,0 +1,14 @@
+C:\Users\ibm\source\repos\arraykichikelement\arraykichikelement\bin\Debug\netcoreapp3.1\arraykichikelement.exe
+C:\Users\ibm\source\repos\arraykichikelement\arraykichikelement\bin\Debug\netcoreapp3.1\arraykichikelement.deps.json
+C:\Users\ibm\source\repos\arraykichikelement\arraykichikelement\bin\Debug\netcoreapp3.1\arraykichikelement.runtimeconfig.json
+C:\Users\ibm\source\repos\arraykichikelement\arraykichikelement\bin\Debug\netcoreapp3.1\arraykichikelement.runtimeconfig.dev.json
+C:\Users\ibm\source\repos\arraykichikelement\arraykichikelement\bin\Debug\netcoreapp3.1\arraykichikelement.dll
+C:\Users\ibm\source\repos\arraykichikelement\arraykichikelement\bin\Debug\netcoreapp3.1\arraykichikelement.pdb
+C:\Users\ibm\source\repos\arraykichikelement\arraykichikelement\obj\Debug\netcoreapp3.1\arraykichikelement.csproj.AssemblyReference.cache
+C:\Users\ibm\source\repos\arraykichikelement\arraykichikelement\obj\Debug\netcoreapp3.1\arraykichikelement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibm\source\repos\arraykichikelement\arraykichikelement\obj\Debug\netcoreapp3.1\arraykichikelement.AssemblyInfoInputs.cache
+C:\Users\ibm\source\repos\arraykichikelement\arraykichikelement\obj\Debug\netcoreapp3.1\arraykichikelement.AssemblyInfo.cs
+C:\Users\ibm\source\repos\arraykichikelement\arraykichikelement\obj\Debug\netcoreapp3.1\arraykichikelement.csproj.CoreCompileInputs.cache
+C:\Users\ibm\source\repos\arraykichikelement\arraykichikelement\obj\Debug\netcoreapp3.1\arraykichikelement.dll
+C:\Users\ibm\source\repos\arraykichikelement\arraykichikelement\obj\Debug\netcoreapp3.1\arraykichikelement.pdb
+C:\Users\ibm\source\repos\arraykichikelement\arraykichikelement\obj\Debug\netcoreapp3.1\arraykichikelement.genruntimeconfig.cache
